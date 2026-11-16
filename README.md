@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Driver Assist
+
+**Embryo Driver Assist** is Embryo-Zero's fork of [openpilot](https://github.com/commaai/openpilot), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center" style="text-align: center;">
 
 <h1>openpilot</h1>
